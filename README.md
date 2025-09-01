@@ -1,5 +1,5 @@
 # 25-Days-of-Cyber-Security
-25 Days of Cyber Security Challenges in Try Hack Me - https://tryhackme.com/room/adventofcyber2
+25 Days of Cyber Security Challenges in Try Hack Me - https://tryhackme.com/room/adventofcyber2 (https://tryhackme.com/room/learncyberin25days)
 
 ## 📅 Daily Progress  
 

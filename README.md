@@ -7,4 +7,5 @@
 |-----|-----------------------------|-----------------------------|
 | 1   | Web Exploitation – HTTPS & Cookies | Day 1 Notes -  https://shorturl.at/QPirS |
 | 2   | Web Exploitation – GET Params & File Uploads | Day 2 Notes -  https://shorturl.at/5nCtD |
-| 3   | Coming Soon... | - |
+| 3   | Web Exploitation: Authentication, Dictionary Attacks & Shodan | Day 3 Notes - https://shorturl.at/uQxqZ |
+| 4   | Coming Soon... | - |
